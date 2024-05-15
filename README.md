@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Music Bot 🎵</h1>
+<h1 align="center">🎵 𝙎𝙏𝘼𝙍 𝙈𝙐𝙎𝙄𝘾 𝘽𝙊𝙏 🎵</h1>
 
 <p align="center">
   <img src="https://graph.org/file/570e6b36b6962d8f369a2.jpg"  width="680" height="650">
@@ -22,7 +22,7 @@
 
 
 
-[![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TMM-TEAM/musicbot)
+[![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vicky0604hello/starXmusic)
 
 
 
